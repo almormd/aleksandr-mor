@@ -2,7 +2,7 @@
 
 ### iOS Developer and Medical Doctor
 
-⚡ My interests: software development, AI, Medicine, content creating
+⚡ My interests: software development, AI, medicine, content creating
  
 📫  Feel free to reach me:
 
