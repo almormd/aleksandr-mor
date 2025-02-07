@@ -1,8 +1,8 @@
-## Hi, I'm Aleksandr! 👋
+## Hi, I'm Alexander! 👋
 
-### iOS Developer and Medical Doctor
+### Medical Doctor and Software Engineer
 
-⚡ My interests: software development, AI, medicine, content creating
+⚡ My interests: software development, medicine, AI, content creating
  
 📫  Feel free to reach me:
 
